@@ -13,7 +13,7 @@ used. Searching for the best case scenario, in which the pivot is right in the m
 We are using preset arrays that vary in size for our experiment. The value of each element in the array corresponds to its index.
 
 ## Experimental Methology
-Our experimental apparatus is to populate various set arrays from sizes of 1000 to 15000, increasing in size by 100 every iteration. We will conduct a sort for the worst case scenario and best case scenario each time, an already sorted array, 10 times each for every iteration. The 10 runs will be averaged into one value for that array size. This way we will have a consistent sort method each time. 
+Our experimental apparatus is to populate various set arrays from sizes of 1000 to 15000, increasing in size by 100 every iteration. We will conduct a sort for the worst case scenario and best case scenario each time on an already sorted array, 10 times each for every iteration. The 10 runs will be averaged into one value for that array size. This way we will have a consistent sort method each time. 
 
 ## Results 
 Worst Case:
